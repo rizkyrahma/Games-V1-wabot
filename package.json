@@ -1,5 +1,5 @@
 {
-  "name": "RamzOfc",
+  "name": "Games-V1-wabot",
   "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -22,9 +22,9 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Ramzofc/RamzOfc-V1",
+  "homepage": "https://github.com/rizkyrahma/Games-V1-wabot",
   "author": {
-    "name": "RamzOfc"
+    "name": "rizkyrahma"
   },
   "repository": {
     "type": "git",
